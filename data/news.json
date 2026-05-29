@@ -1,0 +1,62 @@
+[
+  {
+    "id": "seed-news-1",
+    "title": "Bank Indonesia Pertahankan BI-Rate di Level 5,75% untuk Jaga Stabilitas Rupiah",
+    "source": "CNBC Indonesia",
+    "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?q=80&w=800&auto=format&fit=crop",
+    "description": "Rapat Dewan Gubernur (RDG) Bank Indonesia memutuskan untuk mempertahankan suku bunga acuan BI-Rate sebesar 5,75%. Kebijakan ini dinilai konsisten dengan upaya menjaga stabilitas nilai tukar Rupiah di tengah volatilitas keuangan global serta memastikan inflasi tetap terkendali.",
+    "category": "Moneter",
+    "sentiment": "positive",
+    "featured": true,
+    "articleUrl": "https://www.bi.go.id",
+    "date": "24 Mei 2026"
+  },
+  {
+    "id": "seed-news-2",
+    "title": "Inflasi Mei 2026 Terkendali di Angka 2,8%, Daya Beli Masyarakat Stabil",
+    "source": "Kompas Ekonomi",
+    "image": "https://images.unsplash.com/photo-1544377193-33dcf4d68fb5?q=80&w=800&auto=format&fit=crop",
+    "description": "Badan Pusat Statistik (BPS) melaporkan inflasi Indeks Harga Konsumen (IHK) tahunan Mei 2026 berada di level 2,8% YoY. Angka ini mencerminkan keberhasilan Tim Pengendalian Inflasi Pusat dan Daerah (TPIP/TPID) dalam meredam gejolak harga pangan musiman.",
+    "category": "Inflasi",
+    "sentiment": "positive",
+    "featured": false,
+    "articleUrl": "https://www.bps.go.id",
+    "date": "23 Mei 2026"
+  },
+  {
+    "id": "seed-news-3",
+    "title": "Ekspor Komoditas Non-Migas Naik 8,2%, Nikel dan CPO Jadi Motor Utama",
+    "source": "Bisnis Indonesia",
+    "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=800&auto=format&fit=crop",
+    "description": "Kementerian Perdagangan mengumumkan peningkatan kinerja ekspor komoditas non-migas sebesar 8,2% MoM pada bulan April. Hilirisasi nikel serta membaiknya harga CPO di pasar internasional memperkuat neraca perdagangan Indonesia.",
+    "category": "Perdagangan",
+    "sentiment": "positive",
+    "featured": false,
+    "articleUrl": "https://www.kemendag.go.id",
+    "date": "22 Mei 2026"
+  },
+  {
+    "id": "seed-news-4",
+    "title": "Pemerintah Luncurkan Subsidi Bunga KUR Sektor Digital UMKM Rp1,2 Triliun",
+    "source": "Kontan Ekonomi",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=800&auto=format&fit=crop",
+    "description": "Kemenkop UKM meresmikan program stimulus subsidi Kredit Usaha Rakyat (KUR) mikro senilai Rp1,2 triliun. Bantuan difokuskan pada pelaku UMKM di sektor kerajinan tangan dan pengolahan pangan lokal yang melakukan akselerasi digital.",
+    "category": "UMKM",
+    "sentiment": "positive",
+    "featured": false,
+    "articleUrl": "https://kemenkopukm.go.id",
+    "date": "21 Mei 2026"
+  },
+  {
+    "id": "seed-news-5",
+    "title": "Realisasi Defisit APBN Terjaga Rendah, Sri Mulyani Optimistis Pertumbuhan 5,2%",
+    "source": "Tempo Bisnis",
+    "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=800&auto=format&fit=crop",
+    "description": "Kementerian Keuangan memaparkan realisasi anggaran pendapatan dan belanja negara yang tetap kokoh dengan defisit di bawah 3% dari PDB. Kebijakan fiskal yang disiplin diyakini mampu menyokong target pertumbuhan ekonomi nasional jangka menengah.",
+    "category": "Fiskal",
+    "sentiment": "neutral",
+    "featured": false,
+    "articleUrl": "https://www.kemenkeu.go.id",
+    "date": "20 Mei 2026"
+  }
+]
